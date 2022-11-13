@@ -3,7 +3,7 @@
 Estrutura do projeto
 ----------------- 
 
-### How to run?
+### Como rodar o projeto? 
 ----------------- 
 ```
 1. Clone esse repositório
