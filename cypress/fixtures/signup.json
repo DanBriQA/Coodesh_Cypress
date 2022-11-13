@@ -1,0 +1,17 @@
+{
+  "onboarding": {
+    "whatsApp": "11988880000",
+    "language_english": "Inglês",
+    "company": "Coodesh",
+    "office": "QA",
+    "city": "São Paulo",
+    "start_date": "15/02/2019",
+    "end_date": "15/05/2021",
+    "socialCauses": "Saúde",
+    "description": "Testes Automatizados Cypress",
+    "male_gender": "Homem",
+    "race": "Pessoa Negra",
+    "confirmation_profile_update": "A conta foi atualizada",
+    "sexualOrientation": "Heterossexual"
+  } 
+}
