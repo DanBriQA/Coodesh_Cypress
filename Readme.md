@@ -13,3 +13,5 @@ Estrutura do projeto
 ### Linnk apresentação do projeto
 
 https://www.loom.com/share/adcc552514e643a99f8a040109d81e2a
+
+https://www.loom.com/share/1046020d4a7e465198a62f4367461d44
